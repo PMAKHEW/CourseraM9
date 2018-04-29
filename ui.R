@@ -10,7 +10,7 @@
 library(shiny)
 shinyUI(
   pageWithSidebar(
-    headerPanel("Determine your age in days:"),
+    headerPanel("Determine your age in days (#days between today and your birthday):"),
     sidebarPanel(
       dateInput('tavalod', 'Your birthday:', value = NULL, min = NULL, max = NULL,
                 format = "yyyy-mm-dd", startview = "month", weekstart = 0,
