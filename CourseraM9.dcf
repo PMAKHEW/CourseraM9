@@ -1,0 +1,12 @@
+name: CourseraM9
+title: CourseraM9
+username:
+account: pmakhew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 333380
+bundleId: 1345797
+url: https://pmakhew.shinyapps.io/CourseraM9/
+when: 1525016118.34515
+asMultiple: FALSE
+asStatic: FALSE
